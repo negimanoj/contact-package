@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use Carter\Contact\Models\Contact;
 use Carter\Contact\Mail\ContactMailable;
 use Mail;
+//use Swift_Mailer;
 class ContactController extends Controller
 {
    public function index()
