@@ -9,5 +9,13 @@
         "psr-4": {
             "Carter\\Contact\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Carter\\Contact\\ContactServiceProvider"
+        ],
+       
     }
+},
 }
