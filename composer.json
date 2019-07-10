@@ -3,7 +3,7 @@
     "description": "This will send email to the admin",
     "type": "Library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
