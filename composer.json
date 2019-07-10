@@ -1,0 +1,13 @@
+{
+    "name": "carter/contact",
+    "description": "This will send email to the admin",
+    "type": "Library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Carter\\Contact\\": "src/"
+        }
+    }
+}
